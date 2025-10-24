@@ -41,7 +41,7 @@ journey
   section Evening Routine
     Go to walk and overthink: 9: Me
     Study arcane arts: 9: Me, Cats
-    Sleep: 9 :me
+    Sleep: 9 :Me
 ```
 
 <!--
