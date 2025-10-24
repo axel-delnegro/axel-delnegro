@@ -19,7 +19,7 @@ In my spare time I try to develop custom tools for Red Team, post-exploitation a
 
 ---
 
-  [![](https://skillicons.dev/icons?i=python,c,cpp,js,bash,visualstudio,vscode,ubuntu,windows,github,docker)](https://skillicons.dev)
+  [![](https://skillicons.dev/icons?i=python,c,cpp,visualstudio,vscode,ubuntu,windows,github,docker)](https://skillicons.dev)
 
 ---
 
