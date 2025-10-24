@@ -21,6 +21,28 @@ In my spare time I try to develop custom tools for Red Team, post-exploitation a
 
   [![](https://skillicons.dev/icons?i=python,c,cpp,js,bash,visualstudio,vscode,ubuntu,windows,github,docker)](https://skillicons.dev)
 
+---
+
+```mermaid
+---
+config:
+  theme: neo-dark
+---
+journey
+  title My Daily Life
+  section Morning Routine
+    Coffe: 9: Me, Cats
+    News: 3: Me, Cats
+    Coffee: 9: Me, Cats
+  section Work Time
+    Go to office: 7: Me
+    Morning: 6: Me
+    Afternoon: 3: Me
+  section Evening Routine
+    Go to walk and overthink: 9: Me
+    Study arcane arts: 9: Me, Cats
+    Sleep: 9 :me
+```
 
 <!--
 **axel-delnegro/axel-delnegro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
