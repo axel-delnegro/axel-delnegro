@@ -17,7 +17,6 @@ In my spare time I try to develop custom tools for Red Team, post-exploitation a
 - 👯 I’m looking to collaborate on red teaming frameworks, adversary simulation, and custom implants and phishing simulations.
 - 🤔 I’m looking for help with advanced anti-forensics and hypervisor-level evasion techniques.
 
----
 
   [![](https://skillicons.dev/icons?i=python,c,cpp,visualstudio,vscode,ubuntu,windows,github,docker)](https://skillicons.dev)
 
@@ -44,7 +43,7 @@ journey
     Sleep: 9 :Me
 ```
 
-<!--
+<!-- *********************** 
 **axel-delnegro/axel-delnegro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -57,4 +56,73 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+```json
+{
+  "name": "Axel_Del_Negro",
+  "located_in": "Italy",
+  "current_job": "Cybersecurity Consultant / Penetration Tester",
+
+  "education": [
+    "High school diploma in Elettronics and Automation",
+    "Self-taught in offensive security",
+    "Self-taught in offensive software development",
+    "Continuous training in exploit development, maldev and red team operations"
+  ],
+
+  "company": "HSPI && Freelance",
+
+  "fields_of_interests": [
+    "Offensive Security",
+    "Red Teaming",
+    "Exploit Development",
+    "Malware Development",
+    "Reverse Engineering",
+    "Low-Level Programming",
+    "Operational Security"
+  ],
+
+  "technical_background": [
+    "Python Developer focused on offensive tooling",
+    "Red Team Operator",
+    "C/C++ development for offensive tools",
+    "Low-level automation and analysis",
+    "Windows/Linux scripting"
+  ],
+
+  "currently_learning": [
+    "C for Offensive Development",
+    "Memory internals (processes, syscalls, layout)",
+    "Advanced malware evasion techniques"
+  ],
+
+  "goals_2026": [
+    "Build a complete offensive tooling suite",
+    "Improve skills on" : [
+      "exploit development and reverse engineering",
+      "Custom implants and evasion",
+      "Apply ttp Mitre matrix on custom lab",
+    ]
+  ],
+
+  "hobbies": [
+    "Sports" : [
+      "Paragliding",
+      "Sky",
+    ]
+    "Instruments" : [
+      "Piano",
+      "Bansuri",
+    ]
+    "General" : [
+      "Electronics and radio",
+      "Gaming",
+      "Read books",
+    ]
+  ]
+}
+```
+
+
 -->
