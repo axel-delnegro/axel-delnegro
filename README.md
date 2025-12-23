@@ -1,5 +1,7 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&weight=700&size=24&letterSpacing=0.2rem;&pause=1000&color=D90000&vCenter=true&width=500&lines=Hey%2C+it's+antrax!;currently%3A+learning+the+hard+way;currently%3A+thinking+coffee-powered+;currently%3A+reading+docs)](https://git.io/typing-svg)
+<!--
+![](https://komarev.com/ghpvc/?username=axel-delnegro&color=red&style=flat-square)
+-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&weight=700&size=24&letterSpacing=0.2rem;&pause=1000&color=D90000&vCenter=true&width=500&lines=Hey%2C+it's+antrax!;currently%3A+learning+the+hard+way;currently%3A+thinking+coffee-powered+;currently%3A+reading+docs;Don't+judge+a+book+by+it's+cover)](https://git.io/typing-svg)
 
 - 🔭 Working on web penetration testing and basic secure code review.
 - 🌱 Learning Windows internals basics and low-level C++.
@@ -31,6 +33,7 @@ journey
     Study arcane arts: 9: Me, Cats
     Sleep: 9 :Me
 ```
+
 
 <!--
 **axel-delnegro/axel-delnegro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
